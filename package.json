@@ -1,0 +1,25 @@
+{
+  "name": "santy-data-export",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CExAGupta/santy-data-export.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CExAGupta/santy-data-export/issues"
+  },
+  "homepage": "https://github.com/CExAGupta/santy-data-export#readme",
+  "dependencies": {
+    "@types/node": "^14.14.22",
+    "axios": "^0.21.1"
+  }
+}
